@@ -1,6 +1,9 @@
 # PlayFair Cipher
 Playfair Cipher using with different key values
 
+### Submitted By : Prajin S
+### Register Number : 212223230151
+
 # AIM:
 
 To implement a program to encrypt a plain text and decrypt a cipher text using play fair Cipher substitution technique.
